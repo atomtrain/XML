@@ -1,0 +1,6 @@
+<data>15.11.2021</data> 
+<bug ID>1</bug ID> 
+<Title>1.В игре отображается черный экран на 1 секунду, когда запускаешь 3D битву</Title>
+<Description>1.Отправить военных юнитов на любую страну</Description> 
+<Severity>Trivial</Severity>
+<build version>1.0.0</build version>
